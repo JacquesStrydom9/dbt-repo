@@ -12,7 +12,7 @@
 
 In Powershell:
 ```ps
-#short script to create and start the docker container
+# short script to create and start the docker container
 .\start.ps1
 ```
 
